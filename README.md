@@ -6,7 +6,7 @@ Humans are capable of conveying many emotions through their faces. From happy to
 Can a deep learning classification model be able to differentiate between emotions from images of faces?
 
 ## Data Description
-The dataset contain more than 35,000 examples of 48x48 pixel greyscale images of faces. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear). The dataset was downloaded from [Kaggle](https://www.kaggle.com/ananthu017/emotion-detection-fer).
+The dataset contain more than 35,000 examples of faces. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear). The dataset was downloaded from Kaggle
 
 # Tools
 - Software platform: Jupyter Notebook
@@ -18,4 +18,3 @@ The dataset contain more than 35,000 examples of 48x48 pixel greyscale images of
   - Numpy
   - Seaborn
   - Matplotlib
-  - Pickle
